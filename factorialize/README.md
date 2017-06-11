@@ -1,0 +1,1 @@
+#A function that returns the factorial of an input integer
