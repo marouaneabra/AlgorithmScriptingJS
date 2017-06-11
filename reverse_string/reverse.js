@@ -4,4 +4,5 @@ function reverseString(str) {
 }
 
 reverseString("hello");
+reverseString("test");
 
