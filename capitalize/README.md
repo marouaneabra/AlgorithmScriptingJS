@@ -1,0 +1,1 @@
+#A function that returns all the strings in a text with the first letter capitalized while making sure the rest of the letters are lower case
