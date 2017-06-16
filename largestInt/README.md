@@ -1,1 +1,1 @@
-#A function that returns the length of the longest string in a text of strings
+#A function that returns an array composed of the largest integer of each subarray in an array provided

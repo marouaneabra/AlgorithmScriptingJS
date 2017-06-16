@@ -1,13 +1,13 @@
 
-function findLongestWord(str) {
-  var splitted=str.split(" ");
+function largestOfFour(arr) {
   var max=0;
-  for (var i in splitted){
-    if (splitted[i].length>max){
-      max=splitted[i].length;
-    }
+  var newArr=[];
+  for (var i=0;i<arr.length;i++){
+    for (var j=0;j<arr[i].length;j++){
+      if (arr[i][j]>max){
+        max=arr[i][j];
+      }
+    }newArr.push(max);max=0;
   }
-  return max;
+  return newArr;
 }
-
-
