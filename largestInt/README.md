@@ -1,0 +1,1 @@
+#A function that returns the length of the longest string in a text of strings
