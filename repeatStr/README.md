@@ -1,0 +1,1 @@
+#A function that repeats a string given an input number of times
